@@ -35,6 +35,81 @@ export const products = [
     thumbnail:
       "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
   },
+  {
+    title: "Helper",
+    link: "https://github.com/Shwetank-nitp/Helper",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/helper.png?raw=true",
+  },
+  {
+    title: "Chat Application",
+    link: "https://github.com/Shwetank-nitp/chatApplication",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
+  },
+  {
+    title: "Password Generator",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
+  },
+
+  {
+    title: "EMI Calculator",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
+  },
+  {
+    title: "Helper",
+    link: "https://github.com/Shwetank-nitp/Helper",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/helper.png?raw=true",
+  },
+  {
+    title: "Chat Application",
+    link: "https://github.com/Shwetank-nitp/chatApplication",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
+  },
+  {
+    title: "Password Generator",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
+  },
+
+  {
+    title: "EMI Calculator",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
+  },
+  {
+    title: "Helper",
+    link: "https://github.com/Shwetank-nitp/Helper",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/helper.png?raw=true",
+  },
+  {
+    title: "Chat Application",
+    link: "https://github.com/Shwetank-nitp/chatApplication",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
+  },
+  {
+    title: "Password Generator",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
+  },
+
+  {
+    title: "EMI Calculator",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
+    thumbnail:
+      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
+  },
 ];
 
 export const HeroParallax = ({
