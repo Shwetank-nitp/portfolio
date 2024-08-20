@@ -18,9 +18,9 @@ export default function Hero() {
           duration: 0.75,
           ease: [0.4, 0.0, 0.2, 1],
         }}
-        className="text-2xl px-4 md:text-4xl lg:text-5xl font-bold text-neutral-700 dark:text-white max-w-4xl leading-relaxed lg:leading-snug text-center mx-auto  mt-[5rem] md:mt-11"
+        className="text-2xl px-4 md:text-4xl lg:text-5xl font-bold text-neutral-700 dark:text-white max-w-4xl leading-relaxed lg:leading-snug text-center mx-auto mt-[5rem] md:mt-11"
       >
-        Hi, I'm{" "}
+        Hi, I&apos;m{" "}
         <Highlight className="text-black dark:text-white">Shwetank</Highlight>,
         a Passionate Web Developer.
         <br />
@@ -29,8 +29,9 @@ export default function Hero() {
         </Highlight>
         <p className="font-normal text-sm mt-8 md:text-2xl">
           I specialize in building responsive, high-performance websites and
-          applications using modern technologies like Reactjs, Node.js,
-          Expressjs, MongoDB and TailwindCSS. Let's turn your ideas into reality
+          applications using modern technologies like React.js, Node.js,
+          Express.js, MongoDB, and TailwindCSS. Let&apos;s turn your ideas into
+          reality.
         </p>
       </motion.h1>
     </HeroHighlight>
