@@ -18,120 +18,20 @@ export const products = [
   },
   {
     title: "Chat Application",
-    link: "https://cursor.so",
+    link: "https://github.com/Shwetank-nitp/chatApplication",
     thumbnail:
       "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
   },
   {
     title: "Password Generator",
-    link: "https://userogue.com",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
     thumbnail:
       "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
   },
 
   {
     title: "EMI Calculator",
-    link: "https://editorially.org",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
-  },
-  {
-    title: "Helper",
-    link: "https://github.com/Shwetank-nitp/Helper",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/helper.png?raw=true",
-  },
-  {
-    title: "Chat Application",
-    link: "https://cursor.so",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
-  },
-  {
-    title: "Password Generator",
-    link: "https://userogue.com",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
-  },
-
-  {
-    title: "EMI Calculator",
-    link: "https://editorially.org",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
-  },
-  {
-    title: "Helper",
-    link: "https://github.com/Shwetank-nitp/Helper",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/helper.png?raw=true",
-  },
-  {
-    title: "Chat Application",
-    link: "https://cursor.so",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
-  },
-  {
-    title: "Password Generator",
-    link: "https://userogue.com",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
-  },
-
-  {
-    title: "EMI Calculator",
-    link: "https://editorially.org",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
-  },
-  {
-    title: "Helper",
-    link: "https://github.com/Shwetank-nitp/Helper",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/helper.png?raw=true",
-  },
-  {
-    title: "Chat Application",
-    link: "https://cursor.so",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
-  },
-  {
-    title: "Password Generator",
-    link: "https://userogue.com",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
-  },
-
-  {
-    title: "EMI Calculator",
-    link: "#",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
-  },
-  {
-    title: "Helper",
-    link: "https://github.com/Shwetank-nitp/Helper",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/helper.png?raw=true",
-  },
-  {
-    title: "Chat Application",
-    link: "#",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/chatapp.png?raw=true",
-  },
-  {
-    title: "Password Generator",
-    link: "#",
-    thumbnail:
-      "https://github.com/Shwetank-nitp/projectlinks2/blob/main/passgen.png?raw=true",
-  },
-
-  {
-    title: "EMI Calculator",
-    link: "#",
+    link: "https://github.com/Shwetank-nitp/react-tasks",
     thumbnail:
       "https://github.com/Shwetank-nitp/projectlinks2/blob/main/emi.png?raw=true",
   },
